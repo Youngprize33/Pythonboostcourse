@@ -23,14 +23,14 @@
 ------------------------------------
 ## [캐글 실습으로 배우는 데이터 사이언스](https://github.com/Youngprize33/Pythonboostcourse/tree/main/Python_kaggle_practice)
 
-# [캐글 자전거 대여량 수요 예측]    
+### [캐글 자전거 대여량 수요 예측]    
   사용 라이브러리 : Numpy, Pandas, Matplotlib, Seaborn, Scipy, sklearn
   
 * [데이터 로드 및 EDA](https://github.com/Youngprize33/Pythonboostcourse/blob/main/Python_kaggle_practice/Python_Kaggle_Bicycle1.ipynb)  
 * [데이터 모델링1 및 피쳐 엔지니어링](https://github.com/Youngprize33/Pythonboostcourse/blob/main/Python_kaggle_practice/Python_Kaggle_Bicycle2.ipynb)  
 * [데이터 모델링2 및 앙상블](https://github.com/Youngprize33/Pythonboostcourse/blob/main/Python_kaggle_practice/Python_Kaggle_Bicycle3.ipynb)  
 
-# [캐글 FAQ 데이터 분석]  
+### [캐글 FAQ 데이터 분석]  
   사용 라이브러리 : Numpy, Pandas, Matplotlib, Seaborn, Scipy
  
  * [데이터 로드 및 EDA](https://github.com/Youngprize33/Pythonboostcourse/blob/main/Python_kaggle_practice/Python_Kaggle_FAQ1.ipynb)
