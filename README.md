@@ -1,5 +1,5 @@
 # Boostcourse
-<img width="800" height="800" alt="background" src="https://ssl.pstatic.net/static/connectfdn/edwith/hold_images/img-boostcourse-og.png">  
+<img width="1000" height="500" alt="background" src="https://ssl.pstatic.net/static/connectfdn/edwith/hold_images/img-boostcourse-og.png">  
 
 부스트코스 강의를 기반으로 공부한 내용들을 정리했습니다.
 
